@@ -89,7 +89,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 运行结果：
 
-![image-20200313131412443](./screenshot/s4.pngg)
+![image-20200313131412443](./screenshot/s4.png)
 
 说明：
 
