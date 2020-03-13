@@ -7,16 +7,16 @@
  * @FilePath: \koa-demo\koaStatic.js
  */
 
- const Koa=require("koa")
- const path=require("path")
- const static=require("koa-static")
- 
-const app=new Koa()
+const Koa = require("koa");
+const path = require("path");
+const static = require("koa-static");
 
-let staticPath='./static'
+const app = new Koa();
 
-app.use(static(path.join(__dirname,staticPath)))
+let staticPath = "./static";
 
-app.listen(3000,()=>{
-    console.log("server is listening at port 3000")
-})
+app.use(static(path.join(__dirname, staticPath)));
+
+app.listen(3000, () => {
+  console.log("server is listening at port 3000");
+});
