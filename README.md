@@ -33,7 +33,7 @@ console.log("app is running at port 3000");
 - 运行index.js
 
 
- ![image-20200313122343024](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313122343024.png)
+ ![image-20200313122343024](./screenshot/1.png)
 
 
 
@@ -47,7 +47,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 代码截图：
 
-![2](C:\Users\zxb\Pictures\新建文件夹\2.png)
+![2](./screenshot/2.png)
 
 返回的是Promise对象
 
