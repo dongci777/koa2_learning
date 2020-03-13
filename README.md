@@ -61,7 +61,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 代码截图：
 
-![3](C:\Users\zxb\Pictures\新建文件夹\3.png)
+![3](./screenshot/3.png)
 
 运行结果：
 
@@ -71,7 +71,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 代码截图：
 
-![4](C:\Users\zxb\Pictures\新建文件夹\4.png)
+![4](./screenshot/4.png)
 
 以下程序将会四秒之后打印		
 
@@ -85,7 +85,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 代码截图：
 
-![5](C:\Users\zxb\Pictures\新建文件夹\5.png)
+![5](./screenshot/5.png)
 
 运行结果：
 
@@ -105,7 +105,7 @@ request.querystring 返回的是字符串
 
 代码截图：
 
-![6](C:\Users\zxb\Pictures\新建文件夹\6.png)
+![6](./screenshot/6.png)
 
 运行GIF结果：
 
@@ -128,7 +128,7 @@ ctx.request 和ctx.req的区别：
 
 代码截图：
 
-![7](C:\Users\zxb\Pictures\新建文件夹\7.png)
+![7](./screenshot/7.png)
 
 运行结果：
 
@@ -159,7 +159,7 @@ http://www.w3school.com.cn/My first/
 
 代码截图：
 
-![8](C:\Users\zxb\Pictures\新建文件夹\8.png)
+![8](./screenshot/8.png)
 
 运行结果：
 
@@ -181,7 +181,7 @@ http://www.w3school.com.cn/My first/
 
 代码截图：
 
-![9](C:\Users\zxb\Pictures\新建文件夹\9.png)
+![9](./screenshot/9.png)
 
 注意：
 
@@ -218,7 +218,7 @@ app.use(router.routes()).use(router.allowedMethods())
 
 代码截图：
 
-![10](C:\Users\zxb\Pictures\新建文件夹\10.png)
+![10](./screenshot/10.png)
 
 
 
@@ -228,7 +228,7 @@ app.use(router.routes()).use(router.allowedMethods())
 
 代码截图：
 
-![11](C:\Users\zxb\Pictures\新建文件夹\11.png)
+![11](./screenshot/11.png)
 
 运行结果：
 
@@ -244,7 +244,7 @@ const router=new Router({
 
 代码截图：
 
-![12](C:\Users\zxb\Pictures\新建文件夹\12.png)
+![12](./screenshot/12.png)
 
 运行结果：
 
@@ -254,7 +254,7 @@ const router=new Router({
 
 代码截图：
 
-![13](C:\Users\zxb\Pictures\新建文件夹\13.png)
+![13](./screenshot/13.png)
 
 分析：
 
@@ -269,7 +269,7 @@ const router=new Router({
 
 代码截图：
 
-![14](C:\Users\zxb\Pictures\新建文件夹\14.png)
+![14](./screenshot/14.png)
 
 cookie设置参数说明：
 
@@ -296,11 +296,11 @@ yarn add ejs
 
 代码截图：
 
-![15](C:\Users\zxb\Pictures\新建文件夹\15.png)
+![15](./screenshot/15.png)
 
 index.ejs文件：
 
-![16](C:\Users\zxb\Pictures\新建文件夹\16.png)
+![16](./screenshot/16.png)
 
 运行结果：
 
@@ -316,7 +316,7 @@ yarn add koa-static
 
 代码截图：
 
-![17](C:\Users\zxb\Pictures\新建文件夹\17.png)
+![17](./screenshot/17.png)
 
 静态资源文件结构：
 
