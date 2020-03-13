@@ -53,7 +53,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 运行结果：
 
-![image-20200313124837322](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313124837322.png)
+![image-20200313124837322](./screenshot/s1.png)
 
 - await在等待什么
 
@@ -65,7 +65,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 运行结果：
 
-![image-20200313125159064](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313125159064.png)
+![image-20200313125159064](./screenshot/s2.png)
 
 - 模拟异步执行，async和await同时使用
 
@@ -75,7 +75,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 以下程序将会四秒之后打印		
 
-![image-20200313125814037](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313125814037.png)
+![image-20200313125814037](./screenshot/s3.png)
 
 
 
@@ -89,7 +89,7 @@ async 用于声明一个方法是异步的，await是等待异步方法执行完
 
 运行结果：
 
-![image-20200313131412443](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313131412443.png)
+![image-20200313131412443](./screenshot/s4.pngg)
 
 说明：
 
@@ -109,7 +109,7 @@ request.querystring 返回的是字符串
 
 运行GIF结果：
 
-![1](C:\Users\zxb\Desktop\1.gif)
+![1](./screenshot/1.gif)
 
 实战：
 
@@ -132,7 +132,7 @@ ctx.request 和ctx.req的区别：
 
 运行结果：
 
-![image-20200313145156995](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313145156995.png)
+![image-20200313145156995](./screenshot/s5.png)
 
 注意点
 
@@ -163,7 +163,7 @@ http://www.w3school.com.cn/My first/
 
 运行结果：
 
-![image-20200313151006529](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313151006529.png)
+![image-20200313151006529](./screenshot/s6.png)
 
 跟4中的接收post请求结果是一样的
 
@@ -232,7 +232,7 @@ app.use(router.routes()).use(router.allowedMethods())
 
 运行结果：
 
-![image-20200313174335910](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313174335910.png)
+![image-20200313174335910](./screenshot/s7.png)
 
 路由加前缀：
 
@@ -248,7 +248,7 @@ const router=new Router({
 
 运行结果：
 
-![image-20200313175933438](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313175933438.png)
+![image-20200313175933438](./screenshot/s8.png)
 
 ### 8、父子级路由
 
@@ -304,7 +304,7 @@ index.ejs文件：
 
 运行结果：
 
-![image-20200313231337744](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313231337744.png)
+![image-20200313231337744](./screenshot/s9.png)
 
 ### 11、koa静态资源使用
 
@@ -320,11 +320,11 @@ yarn add koa-static
 
 静态资源文件结构：
 
-![image-20200313232904640](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313232904640.png)
+![image-20200313232904640](./screenshot/s10.png)
 
 访问结果：
 
-![image-20200313232929958](C:\Users\zxb\AppData\Roaming\Typora\typora-user-images\image-20200313232929958.png)
+![image-20200313232929958](./screenshot/s11.png)
 
 
 
